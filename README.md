@@ -1,6 +1,6 @@
 ### Hi there, I'm Sheraz - aka [sheraz][website] 👋 
 
-[![Twitter Follow](https://twitter.com/sherazkhan801?lang=bg)](https://twitter.com/sherazkhan801?lang=bg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zainuleb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sherazkhan801?lang=bg)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## I'm a Software Engineer. I like to Write and take Pictures!!
