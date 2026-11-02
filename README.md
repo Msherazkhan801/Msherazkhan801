@@ -11,28 +11,37 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ### 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```javascript
 const sheraz = {
   name:       "Sheraz Khan",
   title:      "MERN Stack Developer",
   location:   "Islamabad, Pakistan 🇵🇰",
-  company:    "Shezi Tech Solution",
-  education:  "Abbottabad University of Science & Technology",
+  company:    "NJ Life Cover",
+  education:  "AUST",
   experience: "3+ years",
-  focus:      ["React.js", "Node.js", "REST APIs", "Scalable Apps"],
+  focus:      ["React.js", "Node.js", "REST APIs"],
   hobbies:    ["Writing ✍️", "Photography 📸", "Cricket 🏏"],
   quote:      "Turning ideas into impactful web experiences"
 };
 ```
 
-- 🔭 Currently working as **Frontend Developer @ NJ Life Cover**
+- 🔭 Currently **Frontend Developer @ NJ Life Cover**
 - 🌱 Mastering **Next.js**, **TypeScript** & **System Design**
-- 💡 Love building **scalable**, **responsive** & **user-centric** applications
+- 💡 Love building **scalable**, **responsive** & **user-centric** apps
 - ⚡ Fun fact: I love **Motivational Speech** and **Cricket** 🏏
+
+</td>
+<td valign="top" width="45%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,12 +84,11 @@ const sheraz = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Msherazkhan801&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Msherazkhan801&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Msherazkhan801&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msherazkhan801&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Msherazkhan801&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="49%"/>
 </div>
 
 ---
