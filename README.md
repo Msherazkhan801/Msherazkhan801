@@ -20,7 +20,7 @@ const sheraz = {
   name:       "Sheraz Khan",
   title:      "MERN Stack Developer",
   location:   "Islamabad, Pakistan 🇵🇰",
-  company:    "NJ Life Cover",
+  company:    "Shezi Tech Solution",
   education:  "Abbottabad University of Science & Technology",
   experience: "3+ years",
   focus:      ["React.js", "Node.js", "REST APIs", "Scalable Apps"],
